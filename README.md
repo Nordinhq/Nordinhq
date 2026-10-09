@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Noreddine Haqqoum 👋
 
-<!--
-**Nordinhq/Nordinhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student:** 
+- English Studies at Mohammed V University in Rabat  
+- 1337 Coding School (42 Network)  
 
-Here are some ideas to get you started:
+💻 **Passionate about:** Software Development, Web Technologies & Linguistics  
+📍 **Location:** Salé, Morocco  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me
+- **LinkedIn:** [Noreddine Haqqoum](https://www.linkedin.com/in/noreddine-haqqoum)
+- **Instagram:** [@nordin_hqm](https://www.instagram.com/nordin_hqm)
+
